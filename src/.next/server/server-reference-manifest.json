@@ -1,0 +1,22 @@
+{
+  "node": {
+    "59c6fc68e391365e4b5cc4b6fd2776da535ce56b": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cvolume-pro%5C%5Cgraph-renderer%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22redirectToDashboard%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "79a7d9ca396a69efa284f923aad659411ad4a7d7": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cvolume-pro%5C%5Cgraph-renderer%5C%5Csrc%5C%5Capp%5C%5Cdashboard%5C%5Cactions.ts%22%2C%5B%22renderGraph%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "/DkgZSPudDvHwyfwvB6a8vDIQoVJJDpSmHmFM6u08KI="
+}
