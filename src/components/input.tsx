@@ -13,7 +13,7 @@ const Input: FC<InputProps> = ({ id, type = 'text', placeholder, value, onChange
         id={id}
         name={id}
         type={type}
-        className="border-2 border-gray-300 rounded py-2 px-4 min-w-[300px] w-full"
+        className="border-2 border-gray-300 rounded py-2 px-4 min-w-[200px] w-full"
         placeholder={placeholder}
         value={value}
         onChange={onChange}
